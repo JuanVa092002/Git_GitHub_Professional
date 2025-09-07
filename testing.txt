@@ -1,2 +1,3 @@
-Aprendiendo a usar Git de manera profesional
+Aprendiendo a usar Git de manera profesional. En esta ocasion empezando haciendo nuevos cambios
+
 
